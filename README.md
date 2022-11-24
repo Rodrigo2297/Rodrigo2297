@@ -1,6 +1,9 @@
 <h1 align="center">Hola , Soy Facundo Rodrigo Madona</h1>
 
 
+<div align="center">
+<img src="https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/static/optimized/rev-628bfab/wp-content/uploads/2022/01/mern-stack-developer.gif" align="center" style="width: 100%; height:100% " />
+</div> 
 
 <h2>Full Stack Web Developer</h2>
  
