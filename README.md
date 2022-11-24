@@ -9,7 +9,7 @@ Soy una persona que le gusta siempre aprender y adquirir nuevos conocimientos.
 
 Datos de contactos 
   https://www.linkedin.com/in/facundo-rodrigo-madona-081433231/
-  <p>mail: rodrigomadona22@gmail.com</p>
+  <p>Mail: rodrigomadona22@gmail.com</p>
   
 <h3 align="left">Front End:</h3>
 <p align="left"> 
