@@ -7,8 +7,10 @@
 
 <h2>Full Stack Web Developer</h2>
  
-Soy una persona que le gusta siempre aprender y adquirir nuevos conocimientos.
 
+Hola! mi nombre es Rodrigo tengo 25 años, soy una persona que le gusta siempre aprender y adquirir nuevos conocimientos.
+Soy una persona que le gusta siempre aprender y adquirir nuevos conocimientos.
+Las tecnologías que manejo en la actualidad: HTML & CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize.
 
 Datos de contactos 
   https://www.linkedin.com/in/facundo-rodrigo-madona-081433231/
