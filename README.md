@@ -14,7 +14,7 @@ Las tecnologías que manejo en la actualidad: HTML & CSS, JavaScript, React, Red
 
 Datos de contactos 
   https://www.linkedin.com/in/facundo-rodrigo-madona-081433231/
-  <p>Mail: rodrigomadona22@gmail.com</p>
+  <p>Email: <a href="rodrigomadona22@gmail.com">rodrigomadona22@gmail.com</a></p>
   
 <h3 align="left">Front End:</h3>
 <p align="left"> 
